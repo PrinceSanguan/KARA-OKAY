@@ -1,0 +1,7 @@
+# This repository is the public page for Kara-okay: the README and its images, nothing else.
+# The app's source stays on this PC and is never pushed. Its history is backed up in
+# D:\KOTLIN PROJECTS\Kara-okay-source.bundle (restore with: git clone Kara-okay-source.bundle).
+/*
+!/.gitignore
+!/README.md
+!/docs/
