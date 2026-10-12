@@ -5,7 +5,7 @@
 <p align="center">
   <a href="../../releases/latest"><img src="https://img.shields.io/badge/Download-APK-00C39A?style=for-the-badge&logo=android&logoColor=white" alt="Download the APK"></a>
   <img src="https://img.shields.io/badge/Android-8.0%2B-0A6B4E?style=for-the-badge&logo=android&logoColor=white" alt="Android 8.0 or newer">
-  <img src="https://img.shields.io/badge/Version-1.0.0-00301F?style=for-the-badge" alt="Version 1.0.0">
+  <img src="https://img.shields.io/badge/Version-1.1.0-00301F?style=for-the-badge" alt="Version 1.1.0">
   <img src="https://img.shields.io/badge/Price-Free-72F5B6?style=for-the-badge&labelColor=00301F" alt="Free">
 </p>
 
@@ -63,19 +63,23 @@ Many karaoke apps on Android hand you a player and leave the rest to you: find s
 
 | | |
 |---|---|
-| 🎤 **Videoke stage** | Lyrics on two alternating lines that fill with colour as they are sung, a beat count-in before the first line, and moving video backdrops. |
-| 🔢 **Song numbers and keypad** | Every song has a five-digit number. Punch it in and the app reads each digit back, so a wrong number is caught before you press play. |
+| 🎤 **Videoke stage** | Lyrics on two or three alternating lines that fill with colour as they are sung, a beat count-in before the first line, and moving video backdrops. The song menu opens beside the lyrics, never over them. |
+| 🔢 **Song numbers** | Every song has a five-digit number. Type it in the search box, or on the keypad in the song menu, the phone remote or the TV; the keypad reads each digit back. |
 | ⏭️ **Up Next queue** | Queue songs by number while someone else is singing. When a song ends, the next one starts on its own. |
 | 🎚️ **Key, tempo and melody guide** | Move the key up or down six steps, slow down or speed up the song, and turn the guide melody on or off. |
 | 🔍 **Fast search** | Search by title or artist. Accents and apostrophes don't matter: `nino` finds *Niño*, `dont` finds *Don't*. |
-| 🎹 **Two sound banks** | Two built-in instrument sets give the same song a different band. Switch any time. |
+| 🎹 **Sound banks** | Two built-in instrument sets give the same song a different band, and you can add your own `.sf2`. Switch any time, even mid-song. |
 | 📶 **Download once, sing offline** | About 290 MB, downloaded once. Pause it and resume later without losing anything; after that, no internet needed. |
 | 📖 **Printable songbook** | A PDF songbook, by category and by artist, with every song's number. [Get it from Releases](../../releases/latest) and print it for the party table. |
-| 🔒 **No account, no ads** | No sign-up and no ads. It asks only for internet (to download songs) and notifications (to show download progress). |
+| 📺 **Android TV and phone remote** | The same app runs on Android TV and Google TV. Reserve songs and control the TV from your phone, or let guests scan a QR code with any phone. |
+| 🎵 **Your own songs too** | Add your own MIDI, KAR and MP3 songs (an MP3 with its `.lrc` lyrics) and `.sf2` sounds. On a TV, send them from your phone. |
+| 🎨 **Make it yours** | Lyric size, colour and outline; the background behind the lyrics, your own photos and videos included; and the app's colours: Green, Ocean blue, Purple night, Rose or Soft dark, on a soft glow. |
+| 🔄 **New songs by themselves** | When songs are added, they download on Wi-Fi with a **New** tag. Updates to the app install from inside it. |
+| 🔒 **No account, no ads** | No sign-up and no ads. It asks for internet and notifications, and to install its own updates. |
 
 ## Kara-okay vs SongHub
 
-If you have used SongHub on Android, you know it is a capable player, with extras like MP3 playback, Android TV and a phone remote. Its setup, though, is all on you. Kara-okay takes that setup away.
+If you have used SongHub on Android, you know it is a capable player, with extras like MP3 playback, Android TV and a phone remote. Its setup, though, is all on you. Kara-okay takes that setup away, and since 1.1.0 it has Android TV, a phone remote, and your own MIDI, KAR and MP3 songs too.
 
 | Getting to the first song | SongHub | Kara-okay |
 |---|---|---|
@@ -95,6 +99,16 @@ If you have used SongHub on Android, you know it is a capable player, with extra
 4. **Open Kara-okay** and tap **Download songs**. Wi-Fi is best; on mobile data the app asks first.
 5. When **Start singing** appears, you're ready. The rest keeps downloading in the background.
 
+Already have an older version? Install the new one over it. **Your downloaded songs stay.**
+
+**On a TV** (Android TV or Google TV):
+
+1. Install the free **Downloader** app from the TV's Google Play.
+2. Open it and type `github.com/PrinceSanguan/KARA-OKAY/releases/tag/v1.1.0`
+3. Pick **Kara-okay-1.1.0.apk** and install it.
+4. Open Kara-okay on the TV and tap **Download songs**.
+5. To use your phone as the remote, scan the QR code on the TV's song list.
+
 **You need:** Android 8.0 or newer, about 400 MB of free space, and internet for the first download only.
 
 ## FAQ
@@ -108,7 +122,7 @@ Yes. Download it, install it, and sing. There are no ads and nothing to buy.
 <details>
 <summary><b>Is it safe to install?</b></summary>
 <br>
-Kara-okay needs no account and has no ads. It asks for only two permissions: internet, to download the songs, and notifications, to show download progress. It never asks for your photos, files, contacts or location. You can check this yourself under <b>Settings → Apps → Kara-okay → Permissions</b>.
+Kara-okay needs no account and has no ads. It asks for internet (to download songs and to talk to the TV on your Wi-Fi), notifications (to show download progress), and, the first time you update from inside the app, your OK to install its own updates. Your own photos, videos, songs and sounds are picked with Android's own pickers, so the app only ever sees the files you choose, and keeps a copy of them. It never asks for your storage, contacts or location. You can check under <b>Settings → Apps → Kara-okay → Permissions</b>.
 </details>
 
 <details>
@@ -126,13 +140,25 @@ No. Tap <b>Resume</b> and it carries on from where it stopped. It also waits for
 <details>
 <summary><b>How do I update?</b></summary>
 <br>
-Download the newer <code>.apk</code> from <a href="../../releases">Releases</a> and install it over the old one. Your downloaded songs stay.
+From 1.1.0 on, Kara-okay tells you when a new version is out and installs it for you. On 1.0.0, download the newer <code>.apk</code> from <a href="../../releases">Releases</a> and install it over the old one. Your downloaded songs stay.
 </details>
 
 <details>
 <summary><b>Can I add my own songs?</b></summary>
 <br>
-Not in version 1.0.0. The library is curated, so every song has lyrics and a number in the songbook.
+Yes, since 1.1.0. Open <b>Settings → Your songs and sounds → Add songs</b> and pick <b>MIDI, KAR or MP3</b> files. For an MP3, pick its <b>.lrc</b> lyrics file too, with the same name, and the words show while you sing. You can also add a <b>.sf2</b> sound there. Your songs are under <b>My songs</b>, numbered from 90001. On a TV, use <b>Send from your phone</b>: scan the QR code and pick the files on your phone.
+</details>
+
+<details>
+<summary><b>How do I put it on my TV?</b></summary>
+<br>
+On an Android TV or Google TV box, install the free <b>Downloader</b> app from the TV's Google Play. Open it, type <code>github.com/PrinceSanguan/KARA-OKAY/releases/tag/v1.1.0</code>, pick <code>Kara-okay-1.1.0.apk</code> and install it. Then open Kara-okay on the TV and download the songs once, the same as on a phone.
+</details>
+
+<details>
+<summary><b>How do I use my phone as the remote?</b></summary>
+<br>
+Phone and TV on the same Wi-Fi. On the TV, the song list shows a QR code: scan it with the phone's camera to reserve songs from the browser, with nothing to install. Or open Kara-okay on the phone, tap <b>Remote</b>, pick the TV and type the 4-digit PIN shown on it. If the TV isn't listed, type the short code under the QR code. Some guest Wi-Fi networks keep devices apart; use the phone's hotspot for the TV then.
 </details>
 
 ## Want your own version?
