@@ -4,9 +4,9 @@
 
 <p align="center">
   <a href="https://github.com/PrinceSanguan/KARA-OKAY/releases/latest"><img src="https://img.shields.io/badge/Download-Phone_%26_TV-00C39A?style=for-the-badge&logo=android&logoColor=white" alt="Download for Android phone and TV"></a>
-  <a href="https://github.com/PrinceSanguan/KARA-OKAY/releases/tag/pc-v1.0.0"><img src="https://img.shields.io/badge/Download-Windows_PC-0A6B4E?style=for-the-badge" alt="Download for Windows PC"></a>
+  <a href="https://github.com/PrinceSanguan/KARA-OKAY/releases/tag/pc-v1.1.0"><img src="https://img.shields.io/badge/Download-Windows_PC-0A6B4E?style=for-the-badge" alt="Download for Windows PC"></a>
   <img src="https://img.shields.io/badge/Phone_%26_TV-1.6.0-00301F?style=for-the-badge" alt="Phone and TV version 1.6.0">
-  <img src="https://img.shields.io/badge/PC-1.0.0-00301F?style=for-the-badge" alt="PC version 1.0.0">
+  <img src="https://img.shields.io/badge/PC-1.1.0-00301F?style=for-the-badge" alt="PC version 1.1.0">
   <img src="https://img.shields.io/badge/Price-Free-72F5B6?style=for-the-badge&labelColor=00301F" alt="Free">
 </p>
 
@@ -25,7 +25,7 @@
 |---|---|
 | 📱 **Android phone or tablet** | [**Kara-okay 1.6.0**](https://github.com/PrinceSanguan/KARA-OKAY/releases/latest): tap `Kara-okay-1.6.0.apk` under **Assets** |
 | 📺 **Android TV or Google TV** | The same app: see [On a TV](#on-a-tv) below |
-| 💻 **Windows laptop or PC** | [**Kara-okay PC 1.0.0**](https://github.com/PrinceSanguan/KARA-OKAY/releases/tag/pc-v1.0.0): click `Kara-okay-PC-Setup-1.0.0.exe` under **Assets** |
+| 💻 **Windows laptop or PC** | [**Kara-okay PC 1.1.0**](https://github.com/PrinceSanguan/KARA-OKAY/releases/tag/pc-v1.1.0): click `Kara-okay-PC-Setup-1.1.0.exe` under **Assets** |
 
 > **Tagalog:** Sa phone, buksan ang link sa **Chrome** (hindi sa loob ng Facebook o Messenger), i-tap ang `.apk`, tapos **Install**. Sa PC, i-click ang `.exe`, buksan, at kapag lumabas ang *"Windows protected your PC"*, i-click ang **More info → Run anyway**. Libre lahat, walang bayad.
 
@@ -71,6 +71,21 @@ Everything in the phone app, now on a Windows laptop or PC, plus what a phone ca
 
 The same 47,000+ songs by number. Your own MIDI, KAR and MP3 songs, karaoke videos and `.sf2` sounds work too: just drag them onto the window. [How to install it](#on-a-windows-laptop-or-pc).
 
+### 🆕 New in PC 1.1
+
+Your comments on the Kara-okay PC video, all answered. Salamat!
+
+| | |
+|---|---|
+| 🔁 **Fixed from your comments** | A song sung again starts with its lyrics, reserved songs play one after another by themselves, the next song is ready at once, and the lyrics are bigger (**Ctrl +** / **Ctrl −** for more or less). |
+| 🔊 **No more tin-can sound** | A finer instrument sound, every song at an even loudness, and no distortion when it gets loud. |
+| 🥊 **Tapatan** | Mic 1 vs Mic 2: two singers, a score for each, and the card names the winner. |
+| 🏆 **Top scores tonight** | The night's ten best scores, on the laptop and on the TV between songs. |
+| 🔁 **Instant replay** | The last three songs you sang: listen again, or save the MP3. |
+| ⬇️ **Sing sooner** | About 42 MB and you can sing. The download carries on by itself when the internet comes back. |
+
+Already on PC 1.0.0? Open Kara-okay and it offers the update. Your songs and settings stay.
+
 ## Screenshots
 
 <p align="center">
@@ -108,7 +123,7 @@ The same 47,000+ songs by number. Your own MIDI, KAR and MP3 songs, karaoke vide
 | ⏭️ **Reserve, skip, sing now** | Reserve songs by number while someone else is singing; when a song ends, the next one starts by itself. ⏭ skips to the next one, and ▶ beside Reserve sings a song now. Stop asks first, so one tap never clears the list. |
 | 🎚️ **Key, tempo and melody guide** | Move the key up or down, slow down or speed up the song, and turn the guide melody on or off with one tap. Once off, it stays off. |
 | 🔍 **Fast search, or just say it** | Search by title or artist, or tap the microphone and say it. Accents and apostrophes don't matter: `nino` finds *Niño*, `dont` finds *Don't*. |
-| 🏆 **Singing score** | Turn it on and get a score, with a cheer, when each song ends. On a TV, plug in a USB microphone or use your phone as the microphone. Your voice is never recorded or kept. |
+| 🏆 **Singing score** | Turn it on and get a score, with a cheer, when each song ends. On a TV, plug in a USB microphone or use your phone as the microphone. On a phone or TV, your voice is never recorded or kept. |
 | 🎚️ **Sound mixer** | Bass, drums, melody and the rest of the band from 0 to 200%, bass boost, treble and echo, also while you sing. |
 | ✍️ **Fix the lyrics yourself** | Change a song's words, move them earlier or later, or tap along to set each line. |
 | 🎹 **Sound banks** | **Platinum Major** plays every song, and **Dreamsam** is one tap away in Sound. You can add your own `.sf2` sound, big ones too: each song loads only the instruments it plays, so it works on an everyday phone. Switch any time, even mid-song. |
@@ -162,7 +177,7 @@ For Android TV or Google TV:
 
 ### On a Windows laptop or PC
 
-1. Open [Kara-okay PC 1.0.0](https://github.com/PrinceSanguan/KARA-OKAY/releases/tag/pc-v1.0.0) and click **Kara-okay-PC-Setup-1.0.0.exe** under **Assets** (118 MB).
+1. Open [Kara-okay PC 1.1.0](https://github.com/PrinceSanguan/KARA-OKAY/releases/tag/pc-v1.1.0) and click **Kara-okay-PC-Setup-1.1.0.exe** under **Assets** (120 MB).
 2. Open the file. If Windows says **"Windows protected your PC"**, click **More info → Run anyway**. Kara-okay is new, so Windows doesn't know it yet. It is not a virus.
 3. Pick **Install for all users**, and click **Yes** when Windows asks.
 4. Click **Next** until **Install**, then **Finish**. Kara-okay opens and downloads the songs and sounds once (about 1 GB). After that, it works without internet.
@@ -185,13 +200,13 @@ Yes, on phone, TV and PC. Download it, install it, and sing. There is nothing to
 <br>
 Yes. Kara-okay needs no account and has no ads. On a phone, it asks for internet (to download songs and to talk to the TV on your Wi-Fi), notifications (to show download progress) and your OK to install its own updates. The microphone is asked for only if you turn on the singing score, and your voice is never recorded or kept. Access to your files is asked for only if you turn on the <b>Kara-okay folder</b>, and it never deletes your files or sends them anywhere. It never asks for your contacts or location.
 <br><br>
-On a PC, Windows asks once for your OK while installing. Kara-okay PC records only when you press <b>Ctrl + R</b>, and the MP3 stays on your PC.
+On a PC, Windows asks once for your OK while installing. Kara-okay PC records when you press <b>Ctrl + R</b>, and for <b>Instant replay</b>: the last three songs sung with a mic on, so you can hear them again. Both stay on your PC and are never sent anywhere; turn Instant replay off in <b>★ Tonight</b>.
 </details>
 
 <details>
 <summary><b>Windows says "Windows protected your PC". What do I do?</b></summary>
 <br>
-Click <b>More info</b>, then <b>Run anyway</b>. Windows shows this for new apps it doesn't know yet; it goes away as more people install Kara-okay. It is not a virus. If you want to check the file, its SHA-256 is on the <a href="https://github.com/PrinceSanguan/KARA-OKAY/releases/tag/pc-v1.0.0">release page</a>.
+Click <b>More info</b>, then <b>Run anyway</b>. Windows shows this for new apps it doesn't know yet; it goes away as more people install Kara-okay. It is not a virus. If you want to check the file, its SHA-256 is on the <a href="https://github.com/PrinceSanguan/KARA-OKAY/releases/tag/pc-v1.1.0">release page</a>.
 </details>
 
 <details>
