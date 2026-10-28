@@ -5,7 +5,7 @@
 <p align="center">
   <a href="https://github.com/PrinceSanguan/KARA-OKAY/releases/latest"><img src="https://img.shields.io/badge/Download-Phone_%26_TV-00C39A?style=for-the-badge&logo=android&logoColor=white" alt="Download for Android phone and TV"></a>
   <a href="https://github.com/PrinceSanguan/KARA-OKAY/releases/tag/pc-v1.1.0"><img src="https://img.shields.io/badge/Download-Windows_PC-0A6B4E?style=for-the-badge" alt="Download for Windows PC"></a>
-  <img src="https://img.shields.io/badge/Phone_%26_TV-1.6.0-00301F?style=for-the-badge" alt="Phone and TV version 1.6.0">
+  <img src="https://img.shields.io/badge/Phone_%26_TV-1.7.0-00301F?style=for-the-badge" alt="Phone and TV version 1.7.0">
   <img src="https://img.shields.io/badge/PC-1.1.0-00301F?style=for-the-badge" alt="PC version 1.1.0">
   <img src="https://img.shields.io/badge/Price-Free-72F5B6?style=for-the-badge&labelColor=00301F" alt="Free">
 </p>
@@ -23,7 +23,7 @@
 
 | Where will you sing? | Get it here |
 |---|---|
-| 📱 **Android phone or tablet** | [**Kara-okay 1.6.0**](https://github.com/PrinceSanguan/KARA-OKAY/releases/latest): tap `Kara-okay-1.6.0.apk` under **Assets** |
+| 📱 **Android phone or tablet** | [**Kara-okay 1.7.0**](https://github.com/PrinceSanguan/KARA-OKAY/releases/latest): tap `Kara-okay-1.7.0.apk` under **Assets** |
 | 📺 **Android TV or Google TV** | The same app: see [On a TV](#on-a-tv) below |
 | 💻 **Windows laptop or PC** | [**Kara-okay PC 1.1.0**](https://github.com/PrinceSanguan/KARA-OKAY/releases/tag/pc-v1.1.0): click `Kara-okay-PC-Setup-1.1.0.exe` under **Assets** |
 
@@ -39,19 +39,31 @@ Many karaoke apps hand you a player and leave the rest to you: find song files, 
 - **Works like the real thing.** Every song has a five-digit number, a printable songbook, a keypad and a reserve list. If you have used a videoke machine, you already know how to use it.
 - **Your own files, if you like.** Add your own songs, karaoke videos and sounds, or plug in a USB drive. No limit on how many.
 
-## 🆕 New in 1.6 (phone and TV)
+## 🆕 New in 1.7 (phone and TV)
 
-Your requests after 1.5, all in this update. Salamat sa bawat comment at message!
+Kara-okay one point seven na! Seventeen new things, all from your requests. Salamat sa bawat comment at message!
 
 | | |
 |---|---|
-| 🔊 **A sound with your score** | A cheer plays with your score when the song ends: the higher the score, the bigger the cheer. |
-| 💙 **Colour you can see on a TV** | With the Classic colour, the words you've sung turn light blue, not just their outline. |
-| 🔠 **Your own lyric size** | No more Small to XL: press − and + from 50% up to 250%, on a phone or with the TV remote. |
-| ⏭️ **Interlude + Skip** | A long intro or instrumental break shows ♪ INTERLUDE ♪ and the seconds left. Tap **SKIP** (on a TV, press **OK**) to jump to just before the next line. |
-| 🪟 **Mini window (PIP)** | On a phone, press Home while singing: the lyrics keep going in a small window, with Pause and Next. |
-| 🔍 **Search with the phone sideways** | Find → ABC shows the songs beside the keyboard while you type. |
-| 📱 **Phone to phone** | No TV? One phone shows the lyrics, the other is the remote. Tap **Use this phone as the stage**, then scan its QR code with the other phone. Same Wi-Fi or the phone's hotspot. |
+| 🌈 **Coloured lyrics again** | Lyrics showed white with a black outline on some phones: Android's *High contrast text* (Samsung: *High contrast fonts*). They keep their colour now, even with it on. |
+| 🔤 **11 lyric fonts** | Pick one in **Settings → Lyrics → Font**. |
+| 🔢 **A new number voice and fanfare** | The keypad says each digit in a new voice, and the score has a new fanfare. |
+| 4️⃣ **Count-in, your way** | Dots or big numbers, a click or a voice, 4-3-2-1, before the first line and after each interlude. |
+| 🎼 **Melody volume** | Turn the guide melody down or up while you sing: **Controls → Melody**. |
+| 🏆 **A score for everyone** | **For fun** (the default) gives a score and a fanfare after every song, even on a TV with no mic. **Mic** scores your real singing. **Off** shows none. |
+| ⏺️ **Record your singing** | Tap ● on the stage. Your takes (audio) are in **My recordings**, to play or share. |
+| 📷 **Camera behind the lyrics** | On a phone or tablet, or a TV with a USB webcam. It is only shown on the screen: never recorded or sent anywhere. |
+| ▶️ **Stays on "Select a Song"** | After a song, type the next number right away. |
+| 📲 **QR while singing** | Guests scan and add songs while someone sings. A small QR shows in the corner during the intro and each interlude, never over the lyrics; a big one any time from **Controls → Show the QR for phones** or the TV remote's **Info** key. |
+| 🙋 **Names on reservations** | A guest's phone asks for a name once (Skip is fine). It shows on the title card, on NEXT, in the Reserved list and on the score card. |
+| 🎶 **Lyrics on the phone remote** | In time with the song. |
+| ⌨️ **Remote search, uncovered** | The keyboard no longer hides the phone remote's search. |
+| 🔵 **Bluetooth remote** | No Wi-Fi? Connect up to 4 phones to the TV or to another phone over Bluetooth. New: tell us how it works on your TV box. |
+| 🔍 **Every match** | Find → ABC shows every song that matches a few letters, closest first. |
+| ⚙️ **New Settings** | Pages (Sound, Singing, Lyrics, TV and remote…) and a search box. |
+| 🆕 **Ready to sing, or My own songs** | On a new install, pick **Ready to sing** (all our songs and sounds) or **My own songs** (only the basic sound and backgrounds, for your own MIDI, KAR and MP3). |
+
+Already on 1.1 or newer? Open Kara-okay and it offers the update. Your songs and settings stay.
 
 ## 💻 New: Kara-okay PC
 
@@ -118,22 +130,23 @@ Already on PC 1.0.0? Open Kara-okay and it offers the update. Your songs and set
 
 | | |
 |---|---|
-| 🎤 **Videoke stage** | Lyrics on two or three lines that fill with colour as they are sung, a beat count-in before the first line, and moving video backdrops. The song menu opens beside the lyrics, never over them. Long intros and breaks show ♪ INTERLUDE ♪ with a Skip. |
+| 🎤 **Videoke stage** | Lyrics on two or three lines that fill with colour as they are sung, in one of 11 fonts, a count-in your way (dots or big numbers, a click or a voice), and moving video backdrops. The song menu opens beside the lyrics, never over them. Long intros and breaks show ♪ INTERLUDE ♪ with a Skip. |
 | 🔢 **Song numbers** | Every song has a five-digit number. Type it in the search box, on the keypad, on the phone remote or on the TV: a song shows from the first digit, and the keypad reads each digit back. |
-| ⏭️ **Reserve, skip, sing now** | Reserve songs by number while someone else is singing; when a song ends, the next one starts by itself. ⏭ skips to the next one, and ▶ beside Reserve sings a song now. Stop asks first, so one tap never clears the list. |
-| 🎚️ **Key, tempo and melody guide** | Move the key up or down, slow down or speed up the song, and turn the guide melody on or off with one tap. Once off, it stays off. |
-| 🔍 **Fast search, or just say it** | Search by title or artist, or tap the microphone and say it. Accents and apostrophes don't matter: `nino` finds *Niño*, `dont` finds *Don't*. |
-| 🏆 **Singing score** | Turn it on and get a score, with a cheer, when each song ends. On a TV, plug in a USB microphone or use your phone as the microphone. On a phone or TV, your voice is never recorded or kept. |
+| ⏭️ **Reserve, skip, sing now** | Reserve songs by number while someone else is singing; when a song ends, the next one starts by itself, and after the last one the stage waits on **Select a Song** for the next number. ⏭ skips to the next one, and ▶ beside Reserve sings a song now. Stop asks first, so one tap never clears the list. |
+| 🎚️ **Key, tempo and melody guide** | Move the key up or down, slow down or speed up the song, and turn the guide melody down, up or off. |
+| 🔍 **Fast search, or just say it** | Search by title or artist, or tap the microphone and say it. A few letters show every match, closest first. Accents and apostrophes don't matter: `nino` finds *Niño*, `dont` finds *Don't*. |
+| 🏆 **Singing score** | A score and a fanfare when each song ends. **For fun** works everywhere, even on a TV with no mic; **Mic** scores your real singing (on a TV, plug in a USB microphone or use your phone as the microphone). |
+| ⏺️ **Record, and a camera** | Tap ● to record your singing (audio) into **My recordings**, to play or share. Turn on the camera behind the lyrics on a phone, tablet or a TV with a USB webcam: it is only shown, never recorded or sent. |
 | 🎚️ **Sound mixer** | Bass, drums, melody and the rest of the band from 0 to 200%, bass boost, treble and echo, also while you sing. |
 | ✍️ **Fix the lyrics yourself** | Change a song's words, move them earlier or later, or tap along to set each line. |
 | 🎹 **Sound banks** | **Platinum Major** plays every song, and **Dreamsam** is one tap away in Sound. You can add your own `.sf2` sound, big ones too: each song loads only the instruments it plays, so it works on an everyday phone. Switch any time, even mid-song. |
 | 📶 **Download once, sing offline** | About 1 GB, downloaded once (Dreamsam's 1.3 GB only if you want it). Pause it and resume later without losing anything. After that, no internet needed. |
 | 📖 **Printable songbook** | A PDF songbook, by category and by artist, with every song's number, your own songs included. Make it in the app with **Songbook (PDF)** on the song list, and print it for the party table. |
-| 📺 **Android TV and phone remote** | The same app runs on Android TV and Google TV. Reserve songs and control the TV from your phone, or let guests scan a QR code with any phone. No TV? Make a second phone the stage. |
+| 📺 **Android TV and phone remote** | The same app runs on Android TV and Google TV. Reserve songs and control the TV from your phone, with the lyrics on it too, or let guests scan a QR code with any phone, even while someone sings. Each reservation can carry the singer's name. No Wi-Fi? Use Bluetooth. No TV? Make a second phone the stage. |
 | 🎵 **Your own songs too** | Add your own MIDI, KAR and MP3 songs (an MP3 with its `.lrc` lyrics), karaoke videos (MP4, MKV, WebM) and `.sf2` sounds. On a TV, send them from your phone. |
 | 🎙️ **MP3 into karaoke** | Pick an MP3 from your phone: the singer's voice is taken out and the lyrics are found online, timed to the song. Works best on studio recordings. |
 | 📁 **Your Kara-okay folder** | Turn it on and copy songs, karaoke videos, sounds and backgrounds into a Kara-okay folder with a file manager, a computer or a USB drive. They play from where they are: nothing copied, no limit. |
-| 🎨 **Make it yours** | Lyric size from 50% to 250%, colour and outline; the background behind the lyrics, your own photos and videos included; and the app's colours: Green, Ocean blue, Purple night, Rose or Soft dark. |
+| 🎨 **Make it yours** | Lyric size from 50% to 250%, 11 fonts, colour and outline; the background behind the lyrics, your own photos and videos included; and the app's colours: Green, Ocean blue, Purple night, Rose or Soft dark. |
 | 🔄 **New songs by themselves** | When songs are added, they download on Wi-Fi with a **New** tag. Songs taken out go by themselves; yours are never touched. Updates to the app install from inside it. |
 | 🔒 **No account, no ad networks** | No sign-up, no ad networks and no trackers. Sponsors who help keep it free are thanked by name. It never deletes your files or sends them anywhere. |
 
@@ -157,10 +170,10 @@ If you have used SongHub, you know it is a capable player, with extras like MP3 
 
 ### On a phone
 
-1. **Open this page in Chrome** (not inside Facebook or Messenger). Open the [latest release](https://github.com/PrinceSanguan/KARA-OKAY/releases/latest) and tap **Kara-okay-1.6.0.apk** under **Assets**.
+1. **Open this page in Chrome** (not inside Facebook or Messenger). Open the [latest release](https://github.com/PrinceSanguan/KARA-OKAY/releases/latest) and tap **Kara-okay-1.7.0.apk** under **Assets**.
 2. **Open the file** when it finishes downloading. If Android asks, allow Chrome to **install unknown apps**. Every app installed from outside the Play Store needs this once.
 3. If **Google Play Protect** shows a warning, tap **More details → Install anyway**.
-4. **Open Kara-okay** and tap **Download songs**. Wi-Fi is best; on mobile data the app asks first.
+4. **Open Kara-okay** and, under **Ready to sing**, tap **Download songs**. Wi-Fi is best; on mobile data the app asks first. (Only want your own songs? Pick **My own songs**.)
 5. When **Start singing** appears, you're ready. The rest keeps downloading in the background.
 
 Already have an older version? Install the new one over it. **Your downloaded songs stay.**
@@ -170,10 +183,10 @@ Already have an older version? Install the new one over it. **Your downloaded so
 For Android TV or Google TV:
 
 1. Install the free **Downloader** app from the TV's Google Play.
-2. Open it and type `github.com/PrinceSanguan/KARA-OKAY/releases/tag/v1.6.0`
-3. Pick **Kara-okay-1.6.0.apk** and install it.
-4. Open Kara-okay on the TV and tap **Download songs**.
-5. To use your phone as the remote, scan the QR code on the TV's song list.
+2. Open it and type `github.com/PrinceSanguan/KARA-OKAY/releases/tag/v1.7.0`
+3. Pick **Kara-okay-1.7.0.apk** and install it.
+4. Open Kara-okay on the TV and, under **Ready to sing**, press **Download songs**.
+5. To use your phone as the remote, scan the QR code on the TV's song list, or in its corner while a song plays.
 
 ### On a Windows laptop or PC
 
@@ -198,7 +211,7 @@ Yes, on phone, TV and PC. Download it, install it, and sing. There is nothing to
 <details>
 <summary><b>Is it safe to install?</b></summary>
 <br>
-Yes. Kara-okay needs no account and has no ads. On a phone, it asks for internet (to download songs and to talk to the TV on your Wi-Fi), notifications (to show download progress) and your OK to install its own updates. The microphone is asked for only if you turn on the singing score, and your voice is never recorded or kept. Access to your files is asked for only if you turn on the <b>Kara-okay folder</b>, and it never deletes your files or sends them anywhere. It never asks for your contacts or location.
+Yes. Kara-okay needs no account and has no ads. On a phone, it asks for internet (to download songs and to talk to the TV on your Wi-Fi), notifications (to show download progress) and your OK to install its own updates. The microphone is asked for only if you pick the <b>Mic</b> score or record your singing; a recording is made only when you tap ● and stays on your phone. The camera is asked for only if you turn on the camera behind the lyrics: it is shown on the screen, never recorded or sent. Bluetooth ("Nearby devices") is asked for only if you use the Bluetooth remote. Access to your files is asked for only if you turn on the <b>Kara-okay folder</b>, and it never deletes your files or sends them anywhere. It never asks for your contacts or location.
 <br><br>
 On a PC, Windows asks once for your OK while installing. Kara-okay PC records when you press <b>Ctrl + R</b>, and for <b>Instant replay</b>: the last three songs sung with a mic on, so you can hear them again. Both stay on your PC and are never sent anywhere; turn Instant replay off in <b>★ Tonight</b>.
 </details>
@@ -250,19 +263,23 @@ Yes, since 1.5.0. Open <b>Settings → Your songs and sounds → Make an MP3 int
 <details>
 <summary><b>How do I put it on my TV?</b></summary>
 <br>
-On an Android TV or Google TV box, install the free <b>Downloader</b> app from the TV's Google Play. Open it, type <code>github.com/PrinceSanguan/KARA-OKAY/releases/tag/v1.6.0</code>, pick <code>Kara-okay-1.6.0.apk</code> and install it. Then open Kara-okay on the TV and download the songs once, the same as on a phone. Have a laptop instead? Use Kara-okay PC and an HDMI cable.
+On an Android TV or Google TV box, install the free <b>Downloader</b> app from the TV's Google Play. Open it, type <code>github.com/PrinceSanguan/KARA-OKAY/releases/tag/v1.7.0</code>, pick <code>Kara-okay-1.7.0.apk</code> and install it. Then open Kara-okay on the TV and download the songs once, the same as on a phone. Have a laptop instead? Use Kara-okay PC and an HDMI cable.
 </details>
 
 <details>
 <summary><b>Does the singing score work on a TV?</b></summary>
 <br>
-Yes, since 1.4.0. A TV has no microphone of its own, so plug a <b>USB microphone</b> into the TV box, or use your phone: open Kara-okay on the phone, connect it as the remote, and turn on <b>Score with this phone's mic</b>. Check it any time in <b>Settings → Singing → Test the microphone</b>.
+Yes. Since 1.7.0 a TV gives a <b>For fun</b> score after every song with no mic at all. For a score from your real singing, pick <b>Mic</b> in <b>Controls → Score</b>. A TV has no microphone of its own, so plug a <b>USB microphone</b> into the TV box, or use your phone: open Kara-okay on the phone, connect it as the remote, and turn on <b>Score with this phone's mic</b>. Check it any time in <b>Settings → Singing → Test the microphone</b>.
 </details>
 
 <details>
 <summary><b>How do I use my phone as the remote?</b></summary>
 <br>
 Put the phone and the TV (or PC) on the same Wi-Fi. The TV or PC shows a QR code: scan it with the phone's camera to reserve songs from the browser, with nothing to install. Or open Kara-okay on the phone, tap <b>Remote</b>, pick the TV or PC and type the 4-digit PIN shown on it. Some guest Wi-Fi networks keep devices apart; use the phone's hotspot then.
+<br><br>
+Guests can scan while someone sings: a small QR shows in the TV's corner during the intro and each interlude, and a big one any time from <b>Controls → Show the QR for phones</b>. Each guest's phone asks for a name once, shown on the TV with their song.
+<br><br>
+No Wi-Fi at all? Use Bluetooth: on the TV, <b>Settings → TV and remote → Bluetooth → Make visible</b>; on the phone, <b>Remote → Find by Bluetooth</b>. Up to 4 phones.
 <br><br>
 No TV? Since 1.6.0 a phone can be the stage too: on the phone that shows the lyrics, tap <b>Use this phone as the stage</b> on the song list, then connect the other phone the same way.
 </details>
@@ -309,8 +326,8 @@ It is built on these open-source projects, used unmodified:
 - [FluidSynth](https://github.com/FluidSynth/fluidsynth), the software synthesizer, under the GNU LGPL 2.1: version 2.4.6 on Android (from the [fluidsynth-android](https://github.com/VolcanoMobile/fluidsynth-android) build), version 2.6.1 on PC, each linked dynamically.
 - [GeneralUser GS](https://github.com/mrbumpy409/GeneralUser-GS) by S. Christian Collins, the basic sound bank under the others, under the GeneralUser GS License v2.0.
 - The Platinum Major and Dreamsam sound banks are custom-made by JC of the Filipino karaoke community.
-- [Inter](https://github.com/rsms/inter), [Oswald](https://github.com/googlefonts/OswaldFont) and [Arimo](https://github.com/googlefonts/arimo) fonts, under the SIL Open Font License 1.1.
-- [Jetpack Compose, AndroidX, Media3 and WorkManager](https://developer.android.com/jetpack), under the Apache License 2.0.
+- [Inter](https://github.com/rsms/inter), [Oswald](https://github.com/googlefonts/OswaldFont) and [Arimo](https://github.com/googlefonts/arimo) fonts, under the SIL Open Font License 1.1, and the lyric fonts Atkinson Hyperlegible, Poppins, Barlow Semi Condensed, Archivo Black, Sniglet, Lilita One, Arvo, Comic Neue and Pacifico (SIL Open Font License 1.1) and Permanent Marker (Apache License 2.0).
+- [Jetpack Compose, AndroidX (CameraX included), Media3 and WorkManager](https://developer.android.com/jetpack), under the Apache License 2.0.
 - On PC also: [FFmpeg](https://ffmpeg.org) (GNU LGPL 3, as separate DLLs), [miniaudio](https://miniaud.io), [Signalsmith Stretch](https://signalsmith-audio.co.uk), Freeverb, [Eclipse Temurin](https://adoptium.net) (OpenJDK, GPL 2 with the Classpath Exception), [Kotlin and Compose Multiplatform](https://www.jetbrains.com/compose-multiplatform/), JmDNS, SQLite JDBC, Apache PDFBox and the QR Code generator library by Project Nayuki. The full list, with every licence, is in the `licenses` folder where Kara-okay PC is installed.
 
 Lyrics found online for your own MP3s come from [LRCLIB](https://lrclib.net), a free, open lyrics library, and only when you ask.
