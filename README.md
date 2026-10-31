@@ -5,7 +5,7 @@
 <p align="center">
   <a href="https://github.com/PrinceSanguan/KARA-OKAY/releases/latest"><img src="https://img.shields.io/badge/Download-Phone_%26_TV-00C39A?style=for-the-badge&logo=android&logoColor=white" alt="Download for Android phone and TV"></a>
   <a href="https://github.com/PrinceSanguan/KARA-OKAY/releases/tag/pc-v1.1.0"><img src="https://img.shields.io/badge/Download-Windows_PC-0A6B4E?style=for-the-badge" alt="Download for Windows PC"></a>
-  <img src="https://img.shields.io/badge/Phone_%26_TV-1.7.0-00301F?style=for-the-badge" alt="Phone and TV version 1.7.0">
+  <img src="https://img.shields.io/badge/Phone_%26_TV-1.8.0-00301F?style=for-the-badge" alt="Phone and TV version 1.8.0">
   <img src="https://img.shields.io/badge/PC-1.1.0-00301F?style=for-the-badge" alt="PC version 1.1.0">
   <img src="https://img.shields.io/badge/Price-Free-72F5B6?style=for-the-badge&labelColor=00301F" alt="Free">
 </p>
@@ -23,7 +23,7 @@
 
 | Where will you sing? | Get it here |
 |---|---|
-| 📱 **Android phone or tablet** | [**Kara-okay 1.7.0**](https://github.com/PrinceSanguan/KARA-OKAY/releases/latest): tap `Kara-okay-1.7.0.apk` under **Assets** |
+| 📱 **Android phone or tablet** | [**Kara-okay 1.8.0**](https://github.com/PrinceSanguan/KARA-OKAY/releases/latest): tap `Kara-okay-1.8.0.apk` under **Assets** |
 | 📺 **Android TV or Google TV** | The same app: see [On a TV](#on-a-tv) below |
 | 💻 **Windows laptop or PC** | [**Kara-okay PC 1.1.0**](https://github.com/PrinceSanguan/KARA-OKAY/releases/tag/pc-v1.1.0): click `Kara-okay-PC-Setup-1.1.0.exe` under **Assets** |
 
@@ -34,36 +34,31 @@
 Many karaoke apps hand you a player and leave the rest to you: find song files, find a soundfont, make the right folders, copy everything over, and hope it works. Kara-okay does all of that for you.
 
 - **Install, tap one button, sing.** Songs, instrument sounds and video backdrops download inside the app. No file manager, no folders, nothing to copy.
-- **Sing before it finishes.** The first songs are ready at about 7% of the download. The rest keeps coming in the background.
+- **Sing before it finishes.** The first songs are ready long before the download ends. The rest keeps coming in the background.
 - **Made for Filipino parties.** More than 47,000 songs, each one checked: OPM, International, Christmas, Worship, Bisaya at Ilocano, Medley, Reggae · Bossa · Bachata, Pambata at Tradisyonal, and more, all with lyrics, the latest hits included.
 - **Works like the real thing.** Every song has a five-digit number, a printable songbook, a keypad and a reserve list. If you have used a videoke machine, you already know how to use it.
 - **Your own files, if you like.** Add your own songs, karaoke videos and sounds, or plug in a USB drive. No limit on how many.
 
-## 🆕 New in 1.7 (phone and TV)
+## 🆕 New in 1.8 (phone and TV)
 
-Kara-okay one point seven na! Seventeen new things, all from your requests. Salamat sa bawat comment at message!
+Kara-okay one point eight na! A new sound, lyrics in time with the music, and your requests. Salamat sa bawat comment at message!
 
 | | |
 |---|---|
-| 🌈 **Coloured lyrics again** | Lyrics showed white with a black outline on some phones: Android's *High contrast text* (Samsung: *High contrast fonts*). They keep their colour now, even with it on. |
-| 🔤 **11 lyric fonts** | Pick one in **Settings → Lyrics → Font**. |
-| 🔢 **A new number voice and fanfare** | The keypad says each digit in a new voice, and the score has a new fanfare. |
-| 4️⃣ **Count-in, your way** | Dots or big numbers, a click or a voice, 4-3-2-1, before the first line and after each interlude. |
-| 🎼 **Melody volume** | Turn the guide melody down or up while you sing: **Controls → Melody**. |
-| 🏆 **A score for everyone** | **For fun** (the default) gives a score and a fanfare after every song, even on a TV with no mic. **Mic** scores your real singing. **Off** shows none. |
-| ⏺️ **Record your singing** | Tap ● on the stage. Your takes (audio) are in **My recordings**, to play or share. |
-| 📷 **Camera behind the lyrics** | On a phone or tablet, or a TV with a USB webcam. It is only shown on the screen: never recorded or sent anywhere. |
-| ▶️ **Stays on "Select a Song"** | After a song, type the next number right away. |
-| 📲 **QR while singing** | Guests scan and add songs while someone sings. A small QR shows in the corner during the intro and each interlude, never over the lyrics; a big one any time from **Controls → Show the QR for phones** or the TV remote's **Info** key. |
-| 🙋 **Names on reservations** | A guest's phone asks for a name once (Skip is fine). It shows on the title card, on NEXT, in the Reserved list and on the score card. |
-| 🎶 **Lyrics on the phone remote** | In time with the song. |
-| ⌨️ **Remote search, uncovered** | The keyboard no longer hides the phone remote's search. |
-| 🔵 **Bluetooth remote** | No Wi-Fi? Connect up to 4 phones to the TV or to another phone over Bluetooth. New: tell us how it works on your TV box. |
-| 🔍 **Every match** | Find → ABC shows every song that matches a few letters, closest first. |
-| ⚙️ **New Settings** | Pages (Sound, Singing, Lyrics, TV and remote…) and a search box. |
-| 🆕 **Ready to sing, or My own songs** | On a new install, pick **Ready to sing** (all our songs and sounds) or **My own songs** (only the basic sound and backgrounds, for your own MIDI, KAR and MP3). |
+| 🎹 **A new sound engine and a new sound, "Classic"** | Fuller, clearer music on every phone and TV. **Major** and **Dreamsam** are still one tap away in Sound. |
+| 🎤 **Lyrics in time with the music** | Each word fills as it is sung, two lines at a time, with a 4-3-2-1 count-in. The words clear before the score, and the fanfare plays to the end, even with songs reserved. |
+| 👀 **See-through titles and score** | No dark box over the video: the title, the ♪ INTERLUDE ♪ bar and the score show over it. Want the box, or no title? **Settings → Lyrics → Song title**. |
+| 🎞️ **The background keeps playing** | Between songs too, and the next video comes when one ends. **BGV** changes it while you sing. New background videos too. |
+| ⏹️ **Stop keeps your reservations** | Stop ends only the song playing and the next reserved song starts, as on a videoke. **Clear reserved** is in the Reserved list and in the Stop dialog. |
+| 📃 **Playlists** | With Play all, Repeat this song, Repeat all and Shuffle. |
+| 🧹 **Clear history** | In History. |
+| 💾 **USB drive or SD card** | **Settings → Your songs → Add a USB or SD folder**. |
+| 📺 **Old TV boxes** | Android 7 boxes can install it now. |
+| 🔍 **Search in landscape** | The results show while you type, phone held sideways. |
+| 🔦 **Flashlight and calculator** | Right in the app, at the top of **Settings**. |
+| 🔢 **New song numbers** | Your favourites, history and playlists move to the new numbers by themselves. The songs download once more (about 490 MB). Make the new songbook with **Songbook (PDF)** at the top of **Settings**. |
 
-Already on 1.1 or newer? Open Kara-okay and it offers the update. Your songs and settings stay.
+Already on 1.1 or newer? Open Kara-okay and it offers the update. Your favourites, playlists and own songs stay.
 
 ## 💻 New: Kara-okay PC
 
@@ -130,22 +125,22 @@ Already on PC 1.0.0? Open Kara-okay and it offers the update. Your songs and set
 
 | | |
 |---|---|
-| 🎤 **Videoke stage** | Lyrics on two or three lines that fill with colour as they are sung, in one of 11 fonts, a count-in your way (dots or big numbers, a click or a voice), and moving video backdrops. The song menu opens beside the lyrics, never over them. Long intros and breaks show ♪ INTERLUDE ♪ with a Skip. |
+| 🎤 **Videoke stage** | Lyrics that fill with colour as they are sung, in one of 11 fonts, a count-in before the first line, and moving video backdrops that carry on between songs. The song menu opens beside the lyrics, never over them. Long intros and breaks show ♪ INTERLUDE ♪ with a Skip. |
 | 🔢 **Song numbers** | Every song has a five-digit number. Type it in the search box, on the keypad, on the phone remote or on the TV: a song shows from the first digit, and the keypad reads each digit back. |
-| ⏭️ **Reserve, skip, sing now** | Reserve songs by number while someone else is singing; when a song ends, the next one starts by itself, and after the last one the stage waits on **Select a Song** for the next number. ⏭ skips to the next one, and ▶ beside Reserve sings a song now. Stop asks first, so one tap never clears the list. |
+| ⏭️ **Reserve, skip, sing now** | Reserve songs by number while someone else is singing; when a song ends, the next one starts by itself, and after the last one the stage waits on **Select a Song** for the next number. ⏭ skips to the next one, and ▶ beside Reserve sings a song now. On a phone or TV, Stop ends just this song and the next one reserved starts, as on a videoke; **Clear reserved** empties the list. |
 | 🎚️ **Key, tempo and melody guide** | Move the key up or down, slow down or speed up the song, and turn the guide melody down, up or off. |
 | 🔍 **Fast search, or just say it** | Search by title or artist, or tap the microphone and say it. A few letters show every match, closest first. Accents and apostrophes don't matter: `nino` finds *Niño*, `dont` finds *Don't*. |
 | 🏆 **Singing score** | A score and a fanfare when each song ends. **For fun** works everywhere, even on a TV with no mic; **Mic** scores your real singing (on a TV, plug in a USB microphone or use your phone as the microphone). |
 | ⏺️ **Record, and a camera** | Tap ● to record your singing (audio) into **My recordings**, to play or share. Turn on the camera behind the lyrics on a phone, tablet or a TV with a USB webcam: it is only shown, never recorded or sent. |
 | 🎚️ **Sound mixer** | Bass, drums, melody and the rest of the band from 0 to 200%, bass boost, treble and echo, also while you sing. |
 | ✍️ **Fix the lyrics yourself** | Change a song's words, move them earlier or later, or tap along to set each line. |
-| 🎹 **Sound banks** | **Platinum Major** plays every song, and **Dreamsam** is one tap away in Sound. You can add your own `.sf2` sound, big ones too: each song loads only the instruments it plays, so it works on an everyday phone. Switch any time, even mid-song. |
-| 📶 **Download once, sing offline** | About 1 GB, downloaded once (Dreamsam's 1.3 GB only if you want it). Pause it and resume later without losing anything. After that, no internet needed. |
-| 📖 **Printable songbook** | A PDF songbook, by category and by artist, with every song's number, your own songs included. Make it in the app with **Songbook (PDF)** on the song list, and print it for the party table. |
+| 🎹 **Sound banks** | **Classic** plays every song on a phone or TV, and **Major** and **Dreamsam** are one tap away in Sound (on PC, Major plays and Dreamsam is one tap away). You can add your own `.sf2` sound, big ones too: each song loads only the instruments it plays, so it works on an everyday phone. Switch any time, even mid-song. |
+| 📶 **Download once, sing offline** | About 750 MB on a phone or TV and about 1 GB on PC, downloaded once (Major and Dreamsam only if you want them). Pause it and resume later without losing anything. After that, no internet needed. |
+| 📖 **Printable songbook** | A PDF songbook, by category and by artist, with every song's number, your own songs included. Make it in the app with **Songbook (PDF)** (on a phone, at the top of **Settings**), and print it for the party table. |
 | 📺 **Android TV and phone remote** | The same app runs on Android TV and Google TV. Reserve songs and control the TV from your phone, with the lyrics on it too, or let guests scan a QR code with any phone, even while someone sings. Each reservation can carry the singer's name. No Wi-Fi? Use Bluetooth. No TV? Make a second phone the stage. |
 | 🎵 **Your own songs too** | Add your own MIDI, KAR and MP3 songs (an MP3 with its `.lrc` lyrics), karaoke videos (MP4, MKV, WebM) and `.sf2` sounds. On a TV, send them from your phone. |
 | 🎙️ **MP3 into karaoke** | Pick an MP3 from your phone: the singer's voice is taken out and the lyrics are found online, timed to the song. Works best on studio recordings. |
-| 📁 **Your Kara-okay folder** | Turn it on and copy songs, karaoke videos, sounds and backgrounds into a Kara-okay folder with a file manager, a computer or a USB drive. They play from where they are: nothing copied, no limit. |
+| 📁 **Your Kara-okay folder** | Turn it on and copy songs, karaoke videos, sounds and backgrounds into a Kara-okay folder with a file manager, a computer or a USB drive. They play from where they are: nothing copied, no limit. No access to all files on your TV box? Add a USB or SD folder with Android's own picker instead. |
 | 🎨 **Make it yours** | Lyric size from 50% to 250%, 11 fonts, colour and outline; the background behind the lyrics, your own photos and videos included; and the app's colours: Green, Ocean blue, Purple night, Rose or Soft dark. |
 | 🔄 **New songs by themselves** | When songs are added, they download on Wi-Fi with a **New** tag. Songs taken out go by themselves; yours are never touched. Updates to the app install from inside it. |
 | 🔒 **No account, no ad networks** | No sign-up, no ad networks and no trackers. Sponsors who help keep it free are thanked by name. It never deletes your files or sends them anywhere. |
@@ -159,10 +154,10 @@ If you have used SongHub, you know it is a capable player, with extras like MP3 
 | Getting to the first song | SongHub | Kara-okay |
 |---|---|---|
 | Song files | Find karaoke files yourself and copy them into a `SongHub/songs` folder | Downloaded inside the app with one tap |
-| Instrument sound | Find an `.sf2` soundfont and copy it into `SongHub/sound` | Platinum Major included, Dreamsam one tap away |
+| Instrument sound | Find an `.sf2` soundfont and copy it into `SongHub/sound` | Classic included, Major and Dreamsam one tap away |
 | Folders to create | `SongHub/` with `songs/`, `sound/`, `bgv/`, `bgphoto/` and more | None (a Kara-okay folder only if you want one) |
 | Backdrop videos | Copy your own into `bgv/` | Downloaded with the songs |
-| When you can sing | After everything has been found and copied | At about 7% of the first download |
+| When you can sing | After everything has been found and copied | Early in the first download, while the rest comes in |
 
 *SongHub details are from its public project page. SongHub is a separate project with no connection to Kara-okay.*
 
@@ -170,21 +165,21 @@ If you have used SongHub, you know it is a capable player, with extras like MP3 
 
 ### On a phone
 
-1. **Open this page in Chrome** (not inside Facebook or Messenger). Open the [latest release](https://github.com/PrinceSanguan/KARA-OKAY/releases/latest) and tap **Kara-okay-1.7.0.apk** under **Assets**.
+1. **Open this page in Chrome** (not inside Facebook or Messenger). Open the [latest release](https://github.com/PrinceSanguan/KARA-OKAY/releases/latest) and tap **Kara-okay-1.8.0.apk** under **Assets**.
 2. **Open the file** when it finishes downloading. If Android asks, allow Chrome to **install unknown apps**. Every app installed from outside the Play Store needs this once.
 3. If **Google Play Protect** shows a warning, tap **More details → Install anyway**.
 4. **Open Kara-okay** and, under **Ready to sing**, tap **Download songs**. Wi-Fi is best; on mobile data the app asks first. (Only want your own songs? Pick **My own songs**.)
 5. When **Start singing** appears, you're ready. The rest keeps downloading in the background.
 
-Already have an older version? Install the new one over it. **Your downloaded songs stay.**
+Already have an older version? Install the new one over it. **Your favourites, playlists and own songs stay.** Coming from 1.7 or older, the songs download once more for their new numbers.
 
 ### On a TV
 
 For Android TV or Google TV:
 
 1. Install the free **Downloader** app from the TV's Google Play.
-2. Open it and type `github.com/PrinceSanguan/KARA-OKAY/releases/tag/v1.7.0`
-3. Pick **Kara-okay-1.7.0.apk** and install it.
+2. Open it and type `github.com/PrinceSanguan/KARA-OKAY/releases/tag/v1.8.0`
+3. Pick **Kara-okay-1.8.0.apk** and install it.
 4. Open Kara-okay on the TV and, under **Ready to sing**, press **Download songs**.
 5. To use your phone as the remote, scan the QR code on the TV's song list, or in its corner while a song plays.
 
@@ -196,7 +191,7 @@ For Android TV or Google TV:
 4. Click **Next** until **Install**, then **Finish**. Kara-okay opens and downloads the songs and sounds once (about 1 GB). After that, it works without internet.
 
 **You need:**
-- **Phone or TV:** Android 8.0 or newer, about 1.5 GB of free space (3 GB with Dreamsam).
+- **Phone or TV:** Android 7.0 or newer, about 1.5 GB of free space (more with Major and Dreamsam).
 - **PC:** Windows 10 or 11 (64-bit), about 1.5 GB of free space.
 - Internet for the first download only.
 
@@ -225,7 +220,7 @@ Click <b>More info</b>, then <b>Run anyway</b>. Windows shows this for new apps 
 <details>
 <summary><b>Does it need internet?</b></summary>
 <br>
-Only for the first download, about 1 GB (Dreamsam's 1.3 GB only if you ask for it), and to find an MP3's lyrics online when you ask. After that it works fully offline, on phone, TV and PC.
+Only for the first download, about 750 MB on a phone or TV and about 1 GB on PC (Major and Dreamsam only if you ask for them), and to find an MP3's lyrics online when you ask. After that it works fully offline, on phone, TV and PC.
 </details>
 
 <details>
@@ -263,7 +258,7 @@ Yes, since 1.5.0. Open <b>Settings → Your songs and sounds → Make an MP3 int
 <details>
 <summary><b>How do I put it on my TV?</b></summary>
 <br>
-On an Android TV or Google TV box, install the free <b>Downloader</b> app from the TV's Google Play. Open it, type <code>github.com/PrinceSanguan/KARA-OKAY/releases/tag/v1.7.0</code>, pick <code>Kara-okay-1.7.0.apk</code> and install it. Then open Kara-okay on the TV and download the songs once, the same as on a phone. Have a laptop instead? Use Kara-okay PC and an HDMI cable.
+On an Android TV or Google TV box, install the free <b>Downloader</b> app from the TV's Google Play. Open it, type <code>github.com/PrinceSanguan/KARA-OKAY/releases/tag/v1.8.0</code>, pick <code>Kara-okay-1.8.0.apk</code> and install it. Then open Kara-okay on the TV and download the songs once, the same as on a phone. Have a laptop instead? Use Kara-okay PC and an HDMI cable.
 </details>
 
 <details>
@@ -323,12 +318,14 @@ Kara-okay is free to download and use. Its source code is not public.
 
 It is built on these open-source projects, used unmodified:
 
-- [FluidSynth](https://github.com/FluidSynth/fluidsynth), the software synthesizer, under the GNU LGPL 2.1: version 2.4.6 on Android (from the [fluidsynth-android](https://github.com/VolcanoMobile/fluidsynth-android) build), version 2.6.1 on PC, each linked dynamically.
+- [FluidSynth](https://github.com/FluidSynth/fluidsynth), the software synthesizer, under the GNU LGPL 2.1: version 2.6.1 on Kara-okay PC, linked dynamically (and on Android until 1.7, from the [fluidsynth-android](https://github.com/VolcanoMobile/fluidsynth-android) build).
 - [GeneralUser GS](https://github.com/mrbumpy409/GeneralUser-GS) by S. Christian Collins, the basic sound bank under the others, under the GeneralUser GS License v2.0.
-- The Platinum Major and Dreamsam sound banks are custom-made by JC of the Filipino karaoke community.
+- The Major and Dreamsam sound banks are custom-made by JC of the Filipino karaoke community. The Classic sound bank is reSAM 16 by DoReMi Channel / Baklas Electronics.
 - [Inter](https://github.com/rsms/inter), [Oswald](https://github.com/googlefonts/OswaldFont) and [Arimo](https://github.com/googlefonts/arimo) fonts, under the SIL Open Font License 1.1, and the lyric fonts Atkinson Hyperlegible, Poppins, Barlow Semi Condensed, Archivo Black, Sniglet, Lilita One, Arvo, Comic Neue and Pacifico (SIL Open Font License 1.1) and Permanent Marker (Apache License 2.0).
 - [Jetpack Compose, AndroidX (CameraX included), Media3 and WorkManager](https://developer.android.com/jetpack), under the Apache License 2.0.
 - On PC also: [FFmpeg](https://ffmpeg.org) (GNU LGPL 3, as separate DLLs), [miniaudio](https://miniaud.io), [Signalsmith Stretch](https://signalsmith-audio.co.uk), Freeverb, [Eclipse Temurin](https://adoptium.net) (OpenJDK, GPL 2 with the Classpath Exception), [Kotlin and Compose Multiplatform](https://www.jetbrains.com/compose-multiplatform/), JmDNS, SQLite JDBC, Apache PDFBox and the QR Code generator library by Project Nayuki. The full list, with every licence, is in the `licenses` folder where Kara-okay PC is installed.
+
+Since 1.8 the phone and TV app plays with [BASS, BASSMIDI and BASS_FX](https://www.un4seen.com) by un4seen developments (not open source), used unmodified.
 
 Lyrics found online for your own MP3s come from [LRCLIB](https://lrclib.net), a free, open lyrics library, and only when you ask.
 
