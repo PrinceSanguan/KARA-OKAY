@@ -5,8 +5,6 @@
 <p align="center">
   <a href="https://github.com/PrinceSanguan/KARA-OKAY/releases/latest"><img src="https://img.shields.io/badge/Download-Phone_%26_TV-00C39A?style=for-the-badge&logo=android&logoColor=white" alt="Download for Android phone and TV"></a>
   <a href="https://github.com/PrinceSanguan/KARA-OKAY/releases/tag/pc-v1.2.0"><img src="https://img.shields.io/badge/Download-Windows_PC-0A6B4E?style=for-the-badge" alt="Download for Windows PC"></a>
-  <img src="https://img.shields.io/badge/Phone_%26_TV-1.9.0-00301F?style=for-the-badge" alt="Phone and TV version 1.9.0">
-  <img src="https://img.shields.io/badge/PC-1.2.0-00301F?style=for-the-badge" alt="PC version 1.2.0">
   <img src="https://img.shields.io/badge/Price-Free-72F5B6?style=for-the-badge&labelColor=00301F" alt="Free">
 </p>
 
@@ -149,22 +147,6 @@ Already on PC 1.1.0? Open Kara-okay and it offers the update. Your own songs, fa
 | 🎨 **Make it yours** | Lyric size from 50% to 250%, 11 fonts, colour (white and yellow too) and outline; the background behind the lyrics, your own photos and videos included, with photos that change every 5, 8 or 10 seconds; and the app's colours: Green, Ocean blue, Purple night, Rose or Soft dark. |
 | 🔄 **New songs by themselves** | When songs are added, they download on Wi-Fi with a **New** tag. Songs taken out go by themselves; yours are never touched. Updates to the app install from inside it. |
 | 🔒 **No account, no ad networks** | No sign-up, no ad networks and no trackers. Sponsors who help keep it free are thanked by name. It never deletes your files or sends them anywhere. |
-
-## Kara-okay vs SongHub
-
-Kara-okay owes its start to **SongHub**, the father of karaoke apps on Android: without it, Kara-okay would not exist. Salamat, SongHub! 🙏
-
-If you have used SongHub, you know it is a capable player, with extras like MP3 playback, Android TV and a phone remote. Its setup, though, is all on you. Kara-okay takes that setup away. It has Android TV, a phone remote and your own MIDI, KAR and MP3 songs too, and since 1.4.0 a Kara-okay folder you can fill with a file manager, the way SongHub users are used to.
-
-| Getting to the first song | SongHub | Kara-okay |
-|---|---|---|
-| Song files | Find karaoke files yourself and copy them into a `SongHub/songs` folder | Downloaded inside the app with one tap |
-| Instrument sound | Find an `.sf2` soundfont and copy it into `SongHub/sound` | Major included, Classic and Dreamsam one tap away |
-| Folders to create | `SongHub/` with `songs/`, `sound/`, `bgv/`, `bgphoto/` and more | None (a Kara-okay folder only if you want one) |
-| Backdrop videos | Copy your own into `bgv/` | Downloaded with the songs |
-| When you can sing | After everything has been found and copied | Early in the first download, while the rest comes in |
-
-*SongHub details are from its public project page. SongHub is a separate project with no connection to Kara-okay.*
 
 ## Install
 
