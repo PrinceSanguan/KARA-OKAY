@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/PrinceSanguan/KARA-OKAY/releases/latest"><img src="https://img.shields.io/badge/Download-Phone_%26_TV-00C39A?style=for-the-badge&logo=android&logoColor=white" alt="Download for Android phone and TV"></a>
-  <a href="https://github.com/PrinceSanguan/KARA-OKAY/releases/tag/pc-v1.2.0"><img src="https://img.shields.io/badge/Download-Windows_PC-0A6B4E?style=for-the-badge" alt="Download for Windows PC"></a>
+  <a href="https://github.com/PrinceSanguan/KARA-OKAY/releases/tag/pc-v1.3.0"><img src="https://img.shields.io/badge/Download-Windows_PC-0A6B4E?style=for-the-badge" alt="Download for Windows PC"></a>
   <img src="https://img.shields.io/badge/Price-Free-72F5B6?style=for-the-badge&labelColor=00301F" alt="Free">
 </p>
 
@@ -24,7 +24,7 @@
 | 📱 **Android phone or tablet** | [**Kara-okay 1.9.0**](https://github.com/PrinceSanguan/KARA-OKAY/releases/latest): tap `Kara-okay-1.9.0.apk` under **Assets** |
 | 📺 **Android TV, Google TV or TV box** | The same app: see [On a TV](#on-a-tv) below |
 | 🚗 **Android car stereo** | The same app, Android 6.0 or newer: see [Will it run on my device?](#will-it-run-on-my-device) |
-| 💻 **Windows laptop or PC** | [**Kara-okay PC 1.2.0**](https://github.com/PrinceSanguan/KARA-OKAY/releases/tag/pc-v1.2.0): click `Kara-okay-PC-Setup-1.2.0.exe` under **Assets** |
+| 💻 **Windows laptop or PC** | [**Kara-okay PC 1.3.0**](https://github.com/PrinceSanguan/KARA-OKAY/releases/tag/pc-v1.3.0): click `Kara-okay-PC-Setup-1.3.0.exe` under **Assets** |
 
 > **Tagalog:** Sa phone, buksan ang link sa **Chrome** (hindi sa loob ng Facebook o Messenger), i-tap ang `.apk`, tapos **Install**. Sa TV, gamitin ang libreng **Downloader** app. Sa PC, i-click ang `.exe`, buksan, at kapag lumabas ang *"Windows protected your PC"*, i-click ang **More info → Run anyway**. Libre lahat, walang bayad.
 
@@ -82,18 +82,20 @@ Kara-okay's videoke on a Windows laptop or PC, plus what a phone can't do:
 
 The same 47,000+ songs by number. Your own MIDI, KAR and MP3 songs, karaoke videos and `.sf2` sounds work too: just drag them onto the window. [How to install it](#on-a-windows-laptop-or-pc).
 
-### 🆕 New in PC 1.2
+### 🆕 New in PC 1.3
 
-Your comments on the Kara-okay PC videos, all answered, and the phone's 1.7 and 1.8. Salamat!
+We asked what you wanted on the PC, 45 of you answered, and here it is. Salamat!
 
 | | |
 |---|---|
-| 🛠️ **Fixed from your comments** | Full screen has a way out (**Exit full screen**, **Esc**, **F11**), number keys and the numpad type (NumLock off too), search stays smooth on a long list, **Let phones connect** when Windows Firewall keeps phones out, and Find has a number row. |
-| 📱 **The phone's 1.7 and 1.8** | Lyrics in time with the music and the **Classic** sound, the same song numbers as the phone (one songbook for all), a count-in, 11 lyric fonts and colours, see-through titles, Stop that keeps the reserved songs, the whole score fanfare, playlists and a calculator. |
-| 📶 **Bluetooth remote** | No Wi-Fi? Up to 4 phones connect by Bluetooth: **Settings → TV and remote → No Wi-Fi? Phones can use Bluetooth**. |
-| 🎹 **MIDI out for DJs** | Send the song to another program through loopMIDI, or to a sound module, in time with the lyrics and the key change: **Sound devices → MIDI out**. |
+| 🎵 **Music between songs** | Pick a folder of MP3s under **♪ Music**: it plays while nobody sings, fades out for a song and comes back after. |
+| ▶️ **YouTube links** | Copy a video's link on YouTube and press **▶ YouTube** (or paste it on the phone remote): it joins the reserved songs and plays in YouTube's own player. |
+| 👏 **Applause** | A button, or the **A** key, while someone sings. |
+| 💬 **More of your asks** | Bigger stage text, blue lyrics with a white edge, your own 4 3 2 1 and GO pictures, hide categories such as Worship or Christmas, add a `.zip` of songs, favourites while singing and in DJ mode, the QR in any corner, ideas for the next song, one-click mic effects. |
+| 🛠️ **Fixed from your comments** | New songs no longer empties the list, a faster start, the score with Bluetooth speakers and with songs that have no melody, background videos that stay, guests can't change the key, the phone remote over the PC's own hotspot, and scrollbars. |
+| 📱 **The phone's 1.9** | The Major sound by default again, find a song by its lyrics, admins and guests on the phone remote, messages on the screen, and long background videos. |
 
-Already on PC 1.1.0? Open Kara-okay and it offers the update. Your own songs, favourites, playlists and settings stay; the songs download once more for their new numbers.
+Already on PC 1.2.0? Open Kara-okay and it offers the update. Your own songs, favourites, playlists and settings stay; the new sound, backgrounds and lyrics search download once (about 680 MB).
 
 ## Screenshots
 
@@ -137,7 +139,7 @@ Already on PC 1.1.0? Open Kara-okay and it offers the update. Your own songs, fa
 | 🎚️ **Sound mixer** | Bass, drums, melody and the rest of the band from 0 to 200%, bass boost, treble and echo, also while you sing. Equalizer apps (Dolby, SoundAlive, Wavelet) can shape the sound too. |
 | ✍️ **Fix the lyrics yourself** | Change a song's words, move them earlier or later, or tap along to set each line. |
 | 🎹 **Sound banks** | **Major** plays every song, each one at the same loudness, and **Classic** and **Dreamsam** are one tap away in Sound. You can add your own `.sf2` sound, big ones too: each song loads only the instruments it plays, so it works on an everyday phone. Switch any time, even mid-song. |
-| 📶 **Download once, sing offline** | About 1.2 GB on a phone or TV (**Light**, for a device short of room: about 570 MB) and about 800 MB on PC, downloaded once. Pause it and resume later without losing anything. The downloads can move to an SD card or a USB drive. After that, no internet needed. |
+| 📶 **Download once, sing offline** | About 1.2 GB on a phone, TV or PC (**Light**, for a phone or TV short of room: about 570 MB), downloaded once. Pause it and resume later without losing anything. The downloads can move to an SD card or a USB drive. After that, no internet needed. |
 | 📖 **Printable songbook** | A PDF songbook, by category and by artist, with every song's number, your own songs included. Make it in the app with **Songbook (PDF)** (on a phone, at the top of **Settings**), and print it for the party table. |
 | 📺 **Android TV and phone remote** | The same app runs on Android TV, Google TV and TV boxes. Reserve songs and control the TV from your phone, with the lyrics on it too, or let guests scan a QR code with any phone, even while someone sings. Guests control only their own songs, the admin all of them; anyone can send a message to the screen or a song from their phone. No Wi-Fi? Use Bluetooth. No TV box? Mirror your phone to the TV, or make a second phone the stage. |
 | 🎵 **Your own songs too** | Add your own MIDI, KAR and MP3 songs (an MP3 with its `.lrc` lyrics), karaoke videos (MP4, MKV, WebM) and `.sf2` sounds. On a TV, send them from your phone. |
@@ -174,7 +176,7 @@ No Android on your TV? Since 1.9 your phone can put the stage on it: mirror the 
 
 ### On a Windows laptop or PC
 
-1. Open [Kara-okay PC 1.2.0](https://github.com/PrinceSanguan/KARA-OKAY/releases/tag/pc-v1.2.0) and click **Kara-okay-PC-Setup-1.2.0.exe** under **Assets** (124 MB).
+1. Open [Kara-okay PC 1.3.0](https://github.com/PrinceSanguan/KARA-OKAY/releases/tag/pc-v1.3.0) and click **Kara-okay-PC-Setup-1.3.0.exe** under **Assets** (125 MB).
 2. Open the file. If Windows says **"Windows protected your PC"**, click **More info → Run anyway**. Kara-okay is new, so Windows doesn't know it yet. It is not a virus.
 3. Pick **Install for all users**, and click **Yes** when Windows asks.
 4. Click **Next** until **Install**, then **Finish**. Kara-okay opens and downloads the songs and sounds once (about 800 MB). After that, it works without internet.
@@ -194,7 +196,7 @@ A smart TV on the right? Mirror your phone to it, or use a laptop and an HDMI ca
 
 **You need:**
 - **Phone, tablet, TV, box or car stereo:** Android 6.0 or newer, about 1.5 GB of free space (Light: about 650 MB; more with Dreamsam).
-- **PC:** Windows 10 or 11 (64-bit), about 1.5 GB of free space.
+- **PC:** Windows 10 or 11 (64-bit), about 2 GB of free space.
 - Internet for the first download only.
 
 ## FAQ
@@ -216,13 +218,13 @@ On a PC, Windows asks once for your OK while installing. Kara-okay PC records wh
 <details>
 <summary><b>Windows says "Windows protected your PC". What do I do?</b></summary>
 <br>
-Click <b>More info</b>, then <b>Run anyway</b>. Windows shows this for new apps it doesn't know yet; it goes away as more people install Kara-okay. It is not a virus. If you want to check the file, its SHA-256 is on the <a href="https://github.com/PrinceSanguan/KARA-OKAY/releases/tag/pc-v1.2.0">release page</a>.
+Click <b>More info</b>, then <b>Run anyway</b>. Windows shows this for new apps it doesn't know yet; it goes away as more people install Kara-okay. It is not a virus. If you want to check the file, its SHA-256 is on the <a href="https://github.com/PrinceSanguan/KARA-OKAY/releases/tag/pc-v1.3.0">release page</a>.
 </details>
 
 <details>
 <summary><b>Does it need internet?</b></summary>
 <br>
-Only for the first download, about 1.2 GB on a phone or TV (Light: about 570 MB) and about 800 MB on PC (Dreamsam only if you ask for it), and to find an MP3's lyrics online when you ask. After that it works fully offline, on phone, TV and PC.
+Only for the first download, about 1.2 GB on a phone, TV or PC (Light, on a phone or TV: about 570 MB; Dreamsam only if you ask for it), and to find an MP3's lyrics online when you ask. After that it works fully offline, on phone, TV and PC.
 </details>
 
 <details>
@@ -280,7 +282,7 @@ Yes. Since 1.7.0 a TV gives a <b>For fun</b> score after every song with no mic 
 <details>
 <summary><b>How do I use my phone as the remote?</b></summary>
 <br>
-Put the phone and the TV (or PC) on the same Wi-Fi. The TV or PC shows a QR code: scan it with the phone's camera to reserve songs from the browser, with nothing to install. Or open Kara-okay on the phone, tap <b>Remote</b>, and pick the TV or PC and type the 4-digit PIN shown on it, or type the stage's code from under its QR (it looks like 23-4821). Some guest Wi-Fi networks keep devices apart; use the phone's hotspot then.
+Put the phone and the TV (or PC) on the same Wi-Fi. The TV or PC shows a QR code: scan it with the phone's camera to reserve songs from the browser, with nothing to install. Or open Kara-okay on the phone, tap <b>Remote</b>, and pick the TV or PC and type the 4-digit PIN shown on it, or type the stage's code from under its QR (it looks like 23-4821). Some guest Wi-Fi networks keep devices apart; use the phone's hotspot then, or on a PC turn on Windows' <b>Mobile hotspot</b> and pick <b>This PC's hotspot</b> in <b>Settings → TV and remote</b>.
 <br><br>
 Guests can scan while someone sings: a small QR shows in the TV's corner during the intro and each interlude, and a big one any time from <b>Controls → Show the QR for phones</b>. Each guest's phone asks for a name once, shown on the TV with their song.
 <br><br>
@@ -330,7 +332,7 @@ Kara-okay is free to download and use. Its source code is not public.
 
 It is built on these open-source projects, used unmodified:
 
-- [FluidSynth](https://github.com/FluidSynth/fluidsynth), the software synthesizer, under the GNU LGPL 2.1, linked dynamically: version 2.6.2 in the phone and TV app (since 1.9, built from the unmodified source, with gcem under the Apache License 2.0) and 2.6.1 on Kara-okay PC. Until 1.7 the phone app used the [fluidsynth-android](https://github.com/VolcanoMobile/fluidsynth-android) build.
+- [FluidSynth](https://github.com/FluidSynth/fluidsynth), the software synthesizer, under the GNU LGPL 2.1, linked dynamically: version 2.6.2 in the phone and TV app (since 1.9, built from the unmodified source, with gcem under the Apache License 2.0) and on Kara-okay PC (since 1.3). Until 1.7 the phone app used the [fluidsynth-android](https://github.com/VolcanoMobile/fluidsynth-android) build.
 - [GeneralUser GS](https://github.com/mrbumpy409/GeneralUser-GS) by S. Christian Collins, the basic sound bank under the others, under the GeneralUser GS License v2.0.
 - The Major and Dreamsam sound banks are custom-made by JC of the Filipino karaoke community. The Classic sound bank is reSAM 16 by DoReMi Channel / Baklas Electronics.
 - [Inter](https://github.com/rsms/inter), [Oswald](https://github.com/googlefonts/OswaldFont) and [Arimo](https://github.com/googlefonts/arimo) fonts, under the SIL Open Font License 1.1, and the lyric fonts Atkinson Hyperlegible, Poppins, Barlow Semi Condensed, Archivo Black, Sniglet, Lilita One, Arvo, Comic Neue and Pacifico (SIL Open Font License 1.1) and Permanent Marker (Apache License 2.0).
